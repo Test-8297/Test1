@@ -1,6 +1,6 @@
 # Đề Xuất Phát Triển Website Bán Hàng
 1. Mô Tả Khái Quát Về Nội Dung Đề Tài
-Đề tài phát triển website bán hàng nhằm tạo ra một nền tảng thương mại điện tử hiện đại, thân thiện với người dùng, giúp các doanh nghiệp và cá nhân có thể dễ dàng giới thiệu và bán sản phẩm của mình trực tuyến. Website sẽ cung cấp một không gian mua sắm tiện lợi, nơi khách hàng có thể tìm kiếm, so sánh và đặt hàng các sản phẩm đa dạng từ nhiều nhà cung cấp khác nhau. Mục tiêu chính là nâng cao trải nghiệm mua sắm trực tuyến, tăng cường khả năng tiếp cận thị trường và tối ưu hóa quy trình giao dịch.
+- Đề tài phát triển website bán hàng nhằm tạo ra một nền tảng thương mại điện tử hiện đại, thân thiện với người dùng, giúp các doanh nghiệp và cá nhân có thể dễ dàng giới thiệu và bán sản phẩm của mình trực tuyến. Website sẽ cung cấp một không gian mua sắm tiện lợi, nơi khách hàng có thể tìm kiếm, so sánh và đặt hàng các sản phẩm đa dạng từ nhiều nhà cung cấp khác nhau. Mục tiêu chính là nâng cao trải nghiệm mua sắm trực tuyến, tăng cường khả năng tiếp cận thị trường và tối ưu hóa quy trình giao dịch.
 2. Mô Tả Các Yêu Cầu Chức Năng
 -	Chức năng đăng nhập và đăng ký:
 + Đăng Ký: Người dùng có thể tạo tài khoản mới bằng cách cung cấp thông tin như tên, địa chỉ email, số điện thoại và mật khẩu. Hệ thống sẽ gửi email xác nhận để đảm bảo tính chính xác của thông tin.
